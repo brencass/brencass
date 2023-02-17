@@ -3,4 +3,4 @@
 I'm [Brendan Cassidy](https://github.com/brencass)!
 
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
